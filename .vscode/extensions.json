@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "eclipse-cdt.serial-monitor",
+        "ms-vscode-remote.remote-wsl"
+    ]
+}
